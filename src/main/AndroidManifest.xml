@@ -14,8 +14,9 @@
             <category android:name="android.intent.category.LAUNCHER" />
         </intent-filter>
     </activity>
+        <activity android:name=".image_activity" />
 
-</application>
+    </application>
 
 
 <uses-permission android:name="android.permission.INTERNET"/>
